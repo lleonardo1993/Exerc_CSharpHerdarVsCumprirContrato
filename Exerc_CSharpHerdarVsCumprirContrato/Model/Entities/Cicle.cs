@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Exerc_CSharpHerdarVsCumprirContrato.Model.Entities
 {
-    internal class Cicle : Shape
+    internal class Cicle : AbstractShape
     {
         public double Radius { get; set; }
 
