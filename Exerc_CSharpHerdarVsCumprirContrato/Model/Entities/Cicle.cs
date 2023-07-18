@@ -15,7 +15,7 @@ namespace Exerc_CSharpHerdarVsCumprirContrato.Model.Entities
         {
             return Math.PI * Radius * Radius;
         }
-
+         
         public override string ToString()
         {
             return "Cicle color = "
